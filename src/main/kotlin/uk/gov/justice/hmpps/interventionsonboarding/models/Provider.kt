@@ -16,5 +16,8 @@ data class Provider(
     val id: UUID = UUID.fromString("00000000-0000-0000-0000-000000000000"),
 
     @Column
-    val name: String = ""
+    val authGroupId: String = "",
+
+    @Column
+    val name: String = "",
 )
