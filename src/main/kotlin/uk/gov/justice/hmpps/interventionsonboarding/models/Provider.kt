@@ -1,4 +1,4 @@
-package uk.gov.justice.hmpps.dynamicframeworkproviders.models
+package uk.gov.justice.hmpps.interventionsonboarding.models
 
 import java.util.UUID
 import javax.persistence.Column

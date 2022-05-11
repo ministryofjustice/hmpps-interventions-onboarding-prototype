@@ -1,4 +1,4 @@
-package uk.gov.justice.hmpps.dynamicframeworkproviders
+package uk.gov.justice.hmpps.interventionsonboarding
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

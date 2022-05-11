@@ -1,10 +1,10 @@
-package uk.gov.justice.hmpps.dynamicframeworkproviders
+package uk.gov.justice.hmpps.interventionsonboarding
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class DynamicFrameworkProvidersApplicationTests {
+class InterventionsOnboardingApplicationTest {
 
     @Test
     fun contextLoads() {

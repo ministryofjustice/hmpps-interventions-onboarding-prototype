@@ -1,1 +1,1 @@
-rootProject.name = "dynamic-framework-providers"
+rootProject.name = "interventions-onboarding"
