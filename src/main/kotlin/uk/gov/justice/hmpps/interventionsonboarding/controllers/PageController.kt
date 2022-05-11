@@ -14,6 +14,6 @@ class PageController {
     @GetMapping("/")
     fun main(@Autowired model: Model): String {
         model.addAttribute("providers", providers.all())
-        return "page"
+        return "listProviders"
     }
 }
