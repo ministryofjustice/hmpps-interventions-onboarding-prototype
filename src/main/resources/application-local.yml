@@ -2,4 +2,4 @@ postgres:
   uri: localhost:5432
   db: providers_dev
   username: postgres
-  password: postgres
+  password: password
